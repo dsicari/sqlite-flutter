@@ -1,1 +1,1 @@
-# SQLite_how_to
+# SQLite how-to
